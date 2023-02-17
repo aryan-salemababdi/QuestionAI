@@ -1,8 +1,8 @@
-import React, {useRef, useEffect, useState} from 'react';
+import React, {useRef,
+               useEffect, 
+               useState} 
+from 'react';
 import './App.css';
-
-// 0. Install dependencies
-// npm i @tensorflow/tfjs @tensorflow-models/qna react-loader-spinner
 
 // 1. Import dependencies
 import * as tf from "@tensorflow/tfjs";
