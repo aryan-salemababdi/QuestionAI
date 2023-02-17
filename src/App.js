@@ -7,7 +7,6 @@ import './App.css';
 // 1. Import dependencies
 import * as tf from "@tensorflow/tfjs";
 import * as qna from "@tensorflow-models/qna";
-// import "react-loader-spinner/dist/loader/css/react-spinner-loader.css";
 import { Rings } from 'react-loader-spinner';
 
 
